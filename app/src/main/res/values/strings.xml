@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OTP_Verification_with_Firebase</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_given_mobile_number">We will send you an one time otp on this given mobile number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="_91">+91</string>
+    <string name="please_enter_the_otp_send_to_you">Please Enter the OTP send to you</string>
+    <string name="resend_otp_again">RESEND OTP AGAIN</string>
+    <string name="submit">Submit</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022791977740",
+    "project_id": "otp-verification-95438",
+    "storage_bucket": "otp-verification-95438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022791977740:android:b87736e98378f3d4465729",
+        "android_client_info": {
+          "package_name": "com.palash.otp_verification_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022791977740-71m4um9utseb9ujbdsfu7os1i8dc6tdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcneIJuR85xPb_cdQpN6e6uxGBdvfOiTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022791977740-71m4um9utseb9ujbdsfu7os1i8dc6tdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
